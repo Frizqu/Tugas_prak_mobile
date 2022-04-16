@@ -1,6 +1,10 @@
 # flutter_application_fathan
+Screenshot :
 
-A new Flutter project.
+
+![1 mobile prak](https://user-images.githubusercontent.com/96322125/163669503-36100065-78b3-4714-866a-d02f2446071a.png)
+![2 mobile prak](https://user-images.githubusercontent.com/96322125/163669489-c6975611-845a-4837-83d8-49a1d0f70e98.png)
+![3 mobile prak](https://user-images.githubusercontent.com/96322125/163669499-d1db6114-eb95-453d-a31d-9b3d7f9465a9.png)
 
 ## Getting Started
 
